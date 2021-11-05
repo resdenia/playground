@@ -1,0 +1,23 @@
+:root {
+	--primary: brown;
+	--secondary: green;
+}
+
+* {
+	font-family: "Roboto", sans-serif;
+}
+
+.page {
+}
+
+header {
+}
+
+footer {
+}
+
+@media (max-width: 992px) {
+	.services {
+		background-color: green;
+	}
+}
